@@ -56,13 +56,14 @@ Which will generate the relit result.
 If you find our work useful, please consider giving a star ⭐ and a citation.
 
 ```bibtex
-@misc{erel2025practilightpracticallightcontrol,
-      title={PractiLight: Practical Light Control Using Foundational Diffusion Models}, 
-      author={Yotam Erel and Rishabh Dabral and Vladislav Golyanik and Amit H. Bermano and Christian Theobalt},
-      year={2025},
-      eprint={2509.01837},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2509.01837}, 
+@article{erel2025practilight,
+  title={PractiLight: Practical Light Control Using Foundational Diffusion Models},
+  author={Erel, Yotam and Dabral, Rishabh and Golyanik, Vladislav and H. Bermano, Amit and Theobalt, Christian},
+  journal={ACM Transactions on Graphics (TOG)},
+  volume={44},
+  number={6},
+  pages={1--11},
+  year={2025},
+  publisher={ACM New York, NY, USA}
 }
 ```
